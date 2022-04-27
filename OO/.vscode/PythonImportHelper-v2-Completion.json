@@ -1,0 +1,547 @@
+[
+    {
+        "label": "Calculatrice",
+        "importPath": "models.Calculatrice",
+        "description": "models.Calculatrice",
+        "isExtraImport": true,
+        "detail": "models.Calculatrice",
+        "documentation": {}
+    },
+    {
+        "label": "helloWorld",
+        "importPath": "models.Calculatrice",
+        "description": "models.Calculatrice",
+        "isExtraImport": true,
+        "detail": "models.Calculatrice",
+        "documentation": {}
+    },
+    {
+        "label": "Voiture",
+        "importPath": "models.Voiture",
+        "description": "models.Voiture",
+        "isExtraImport": true,
+        "detail": "models.Voiture",
+        "documentation": {}
+    },
+    {
+        "label": "Personne",
+        "importPath": "models.personne",
+        "description": "models.personne",
+        "isExtraImport": true,
+        "detail": "models.personne",
+        "documentation": {}
+    },
+    {
+        "label": "Personne",
+        "importPath": "models.personne",
+        "description": "models.personne",
+        "isExtraImport": true,
+        "detail": "models.personne",
+        "documentation": {}
+    },
+    {
+        "label": "Personne",
+        "importPath": "models.personne",
+        "description": "models.personne",
+        "isExtraImport": true,
+        "detail": "models.personne",
+        "documentation": {}
+    },
+    {
+        "label": "Femme",
+        "importPath": "models.femme",
+        "description": "models.femme",
+        "isExtraImport": true,
+        "detail": "models.femme",
+        "documentation": {}
+    },
+    {
+        "label": "Homme",
+        "importPath": "models.homme",
+        "description": "models.homme",
+        "isExtraImport": true,
+        "detail": "models.homme",
+        "documentation": {}
+    },
+    {
+        "label": "Voiture",
+        "importPath": "models.voiture",
+        "description": "models.voiture",
+        "isExtraImport": true,
+        "detail": "models.voiture",
+        "documentation": {}
+    },
+    {
+        "label": "Bateau",
+        "importPath": "models.bateau",
+        "description": "models.bateau",
+        "isExtraImport": true,
+        "detail": "models.bateau",
+        "documentation": {}
+    },
+    {
+        "label": "VoitureAmphibie",
+        "importPath": "models.voiture_amphibie",
+        "description": "models.voiture_amphibie",
+        "isExtraImport": true,
+        "detail": "models.voiture_amphibie",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "models.student",
+        "description": "models.student",
+        "isExtraImport": true,
+        "detail": "models.student",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "importPath": "models.student",
+        "description": "models.student",
+        "isExtraImport": true,
+        "detail": "models.student",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "models.teacher",
+        "description": "models.teacher",
+        "isExtraImport": true,
+        "detail": "models.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "importPath": "models.teacher",
+        "description": "models.teacher",
+        "isExtraImport": true,
+        "detail": "models.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "Classroom",
+        "importPath": "models.classroom",
+        "description": "models.classroom",
+        "isExtraImport": true,
+        "detail": "models.classroom",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "Adresse",
+        "importPath": "models.adresse",
+        "description": "models.adresse",
+        "isExtraImport": true,
+        "detail": "models.adresse",
+        "documentation": {}
+    },
+    {
+        "label": "Maison",
+        "importPath": "models.maison",
+        "description": "models.maison",
+        "isExtraImport": true,
+        "detail": "models.maison",
+        "documentation": {}
+    },
+    {
+        "label": "Chat",
+        "importPath": "models.animaux.chat",
+        "description": "models.animaux.chat",
+        "isExtraImport": true,
+        "detail": "models.animaux.chat",
+        "documentation": {}
+    },
+    {
+        "label": "Chien",
+        "importPath": "models.animaux.chien",
+        "description": "models.animaux.chien",
+        "isExtraImport": true,
+        "detail": "models.animaux.chien",
+        "documentation": {}
+    },
+    {
+        "label": "Oiseau",
+        "importPath": "models.animaux.oiseau",
+        "description": "models.animaux.oiseau",
+        "isExtraImport": true,
+        "detail": "models.animaux.oiseau",
+        "documentation": {}
+    },
+    {
+        "label": "Refuge",
+        "importPath": "models.refuge",
+        "description": "models.refuge",
+        "isExtraImport": true,
+        "detail": "models.refuge",
+        "documentation": {}
+    },
+    {
+        "label": "Calculatrice",
+        "kind": 6,
+        "importPath": "Demos.01_demo_class.models.Calculatrice",
+        "description": "Demos.01_demo_class.models.Calculatrice",
+        "peekOfCode": "class Calculatrice:\n    def __init__(self):\n        self.result = 0\n        self.a = 2\n        self.A = 3\n    def sum(self, nb1, nb2):\n        self.result = nb1 + nb2\n        return self.result\ndef helloWorld():\n    print('Hello World !')",
+        "detail": "Demos.01_demo_class.models.Calculatrice",
+        "documentation": {}
+    },
+    {
+        "label": "helloWorld",
+        "kind": 2,
+        "importPath": "Demos.01_demo_class.models.Calculatrice",
+        "description": "Demos.01_demo_class.models.Calculatrice",
+        "peekOfCode": "def helloWorld():\n    print('Hello World !')",
+        "detail": "Demos.01_demo_class.models.Calculatrice",
+        "documentation": {}
+    },
+    {
+        "label": "c",
+        "kind": 5,
+        "importPath": "Demos.01_demo_class.program",
+        "description": "Demos.01_demo_class.program",
+        "peekOfCode": "c = Calculatrice()\nprint(c.A)\nprint(c.a)\nprint(c.sum(2, 4))\nhelloWorld()",
+        "detail": "Demos.01_demo_class.program",
+        "documentation": {}
+    },
+    {
+        "label": "Voiture",
+        "kind": 6,
+        "importPath": "Demos.02_demo_encapsulation.models.Voiture",
+        "description": "Demos.02_demo_encapsulation.models.Voiture",
+        "peekOfCode": "class Voiture:\n    def __init__(self) -> None:\n        self.__roues = 4\n    # Ascesseur = Récupérer\n    # def _get_roue(self):\n    #     return self.__roue # Retourner la valeur demandée\n    # # Mutateur = Modifier\n    # def _set_roue(self, value):\n    #     self.__roue = value # Modifier la valeur\n    # # roue = property(_get_roue, _set_roue)",
+        "detail": "Demos.02_demo_encapsulation.models.Voiture",
+        "documentation": {}
+    },
+    {
+        "label": "v",
+        "kind": 5,
+        "importPath": "Demos.02_demo_encapsulation.program",
+        "description": "Demos.02_demo_encapsulation.program",
+        "peekOfCode": "v = Voiture() # 4\nv2 = Voiture() # 5\nprint(v.roues)\nv2.roues = 5\nprint(v2.roues)",
+        "detail": "Demos.02_demo_encapsulation.program",
+        "documentation": {}
+    },
+    {
+        "label": "v2",
+        "kind": 5,
+        "importPath": "Demos.02_demo_encapsulation.program",
+        "description": "Demos.02_demo_encapsulation.program",
+        "peekOfCode": "v2 = Voiture() # 5\nprint(v.roues)\nv2.roues = 5\nprint(v2.roues)",
+        "detail": "Demos.02_demo_encapsulation.program",
+        "documentation": {}
+    },
+    {
+        "label": "v2.roues",
+        "kind": 5,
+        "importPath": "Demos.02_demo_encapsulation.program",
+        "description": "Demos.02_demo_encapsulation.program",
+        "peekOfCode": "v2.roues = 5\nprint(v2.roues)",
+        "detail": "Demos.02_demo_encapsulation.program",
+        "documentation": {}
+    },
+    {
+        "label": "Femm",
+        "kind": 6,
+        "importPath": "Demos.03_demo_heritage.models.femme",
+        "description": "Demos.03_demo_heritage.models.femme",
+        "peekOfCode": "class Femme (Personne):\n    # -- Constructeur --\n    def __init__(self, nom, prenom, est_enceinte):\n        super().__init__(nom, prenom)\n        self.__est_enceinte = est_enceinte\n    # -- Ascesseurs & Mutateurs --\n    # @property = getter\n    # @<property_name>.setter = setter\n    @property\n    def est_enceinte(self):",
+        "detail": "Demos.03_demo_heritage.models.femme",
+        "documentation": {}
+    },
+    {
+        "label": "Homm",
+        "kind": 6,
+        "importPath": "Demos.03_demo_heritage.models.homme",
+        "description": "Demos.03_demo_heritage.models.homme",
+        "peekOfCode": "class Homme (Personne):\n    # -- Constructeur --\n    def __init__(self, nom, prenom, longueur_barbe):\n        super().__init__(nom, prenom)\n        self.__longueur_barbe = longueur_barbe\n    # -- Ascesseurs & Mutateurs --\n    # @property = getter\n    # @<property_name>.setter = setter\n    @property\n    def longueur_barbe(self):",
+        "detail": "Demos.03_demo_heritage.models.homme",
+        "documentation": {}
+    },
+    {
+        "label": "Personne",
+        "kind": 6,
+        "importPath": "Demos.03_demo_heritage.models.personne",
+        "description": "Demos.03_demo_heritage.models.personne",
+        "peekOfCode": "class Personne:\n    # -- Constructeur --\n    def __init__(self, nom, prenom):\n        self.__nom = nom\n        self.__prenom = prenom\n    # -- Ascesseurs & Mutateurs --\n    # @property = getter\n    # @<property_name>.setter = setter\n    @property\n    def nom(self):",
+        "detail": "Demos.03_demo_heritage.models.personne",
+        "documentation": {}
+    },
+    {
+        "label": "h",
+        "kind": 5,
+        "importPath": "Demos.03_demo_heritage.program",
+        "description": "Demos.03_demo_heritage.program",
+        "peekOfCode": "h = Homme('Geerts', 'Quentin', 1)\nf = Femme('Geerts', 'Mélanie', False)\nprint(isinstance(f, Femme))     # True\nprint(isinstance(f, Personne))  # True\nprint(isinstance(f, Homme))     # False",
+        "detail": "Demos.03_demo_heritage.program",
+        "documentation": {}
+    },
+    {
+        "label": "f",
+        "kind": 5,
+        "importPath": "Demos.03_demo_heritage.program",
+        "description": "Demos.03_demo_heritage.program",
+        "peekOfCode": "f = Femme('Geerts', 'Mélanie', False)\nprint(isinstance(f, Femme))     # True\nprint(isinstance(f, Personne))  # True\nprint(isinstance(f, Homme))     # False",
+        "detail": "Demos.03_demo_heritage.program",
+        "documentation": {}
+    },
+    {
+        "label": "Bateau",
+        "kind": 6,
+        "importPath": "Demos.04_demo_heritage_multiple.models.bateau",
+        "description": "Demos.04_demo_heritage_multiple.models.bateau",
+        "peekOfCode": "class Bateau:\n    # Constructeur\n    def __init__(self, couleur, type_energie) -> None:\n        self.__couleur = couleur\n        self.__type_energie = type_energie\n    # Ascesseurs et mutateurs\n    @property\n    def couleur (self):\n        return self.__couleur\n    @couleur.setter",
+        "detail": "Demos.04_demo_heritage_multiple.models.bateau",
+        "documentation": {}
+    },
+    {
+        "label": "Voiture",
+        "kind": 6,
+        "importPath": "Demos.04_demo_heritage_multiple.models.voiture",
+        "description": "Demos.04_demo_heritage_multiple.models.voiture",
+        "peekOfCode": "class Voiture:\n    # Constructeur\n    def __init__(self, couleur, nb_roues) -> None:\n        self.__couleur = couleur\n        self.__nb_roues = nb_roues\n    # Ascesseurs et mutateurs\n    @property\n    def couleur (self):\n        return self.__couleur\n    @couleur.setter",
+        "detail": "Demos.04_demo_heritage_multiple.models.voiture",
+        "documentation": {}
+    },
+    {
+        "label": "VoitureAmphibi",
+        "kind": 6,
+        "importPath": "Demos.04_demo_heritage_multiple.models.voiture_amphibie",
+        "description": "Demos.04_demo_heritage_multiple.models.voiture_amphibie",
+        "peekOfCode": "class VoitureAmphibie (Bateau, Voiture):\n    def __init__(self, couleur, type_energie, nb_roues) -> None:\n        # super().__init__(couleur, type_energie)\n        # super().__init__(couleur, nb_roues)\n        Bateau.__init__(self, couleur, type_energie)\n        Voiture.__init__(self, couleur, nb_roues)\n        self.__mode = 0 # O = sol ; 1 = eau\n    @property\n    def mode_sol(self):\n        return self.__mode == 0",
+        "detail": "Demos.04_demo_heritage_multiple.models.voiture_amphibie",
+        "documentation": {}
+    },
+    {
+        "label": "va",
+        "kind": 5,
+        "importPath": "Demos.04_demo_heritage_multiple.program",
+        "description": "Demos.04_demo_heritage_multiple.program",
+        "peekOfCode": "va = VoitureAmphibie(\"rouge\", \"electrique\", 4)\nva.avancer()\nva.change_mode()\nva.tourner()\nva.accoster(\"Anvers\")\nva.change_mode()\nva.accoster(\"Anvers\")",
+        "detail": "Demos.04_demo_heritage_multiple.program",
+        "documentation": {}
+    },
+    {
+        "label": "Classroom",
+        "kind": 6,
+        "importPath": "Exercices.01_Ecole.models.classroom",
+        "description": "Exercices.01_Ecole.models.classroom",
+        "peekOfCode": "class Classroom:\n    def __init__(self, main_teacher, nb_places_max):\n        self.students = []\n        self.MAX_NB_PLACE = nb_places_max\n        self.main_teacher = main_teacher\n    # Méthodes\n    def add_student(self, student):\n        if isinstance(student, Student):\n            if len(self.students) < self.MAX_NB_PLACE:\n                self.students.append(student)",
+        "detail": "Exercices.01_Ecole.models.classroom",
+        "documentation": {}
+    },
+    {
+        "label": "Student",
+        "kind": 6,
+        "importPath": "Exercices.01_Ecole.models.student",
+        "description": "Exercices.01_Ecole.models.student",
+        "peekOfCode": "class Student:\n    def __init__(self, lastname, firstname):\n        self.lastname = lastname\n        self.firstname = firstname\n        self.matricule = lastname[:4] + firstname[:3]\n    def skip_class(self, course):\n        print(f\"{self.lastname} {self.firstname} sèche le cours de {course}.\")\n    def go_to_class(self, course):\n        print(f\"{self.lastname} {self.firstname} suit le cours de {course}.\")",
+        "detail": "Exercices.01_Ecole.models.student",
+        "documentation": {}
+    },
+    {
+        "label": "Teacher",
+        "kind": 6,
+        "importPath": "Exercices.01_Ecole.models.teacher",
+        "description": "Exercices.01_Ecole.models.teacher",
+        "peekOfCode": "class Teacher:\n    def __init__(self, lastname, firstname, hire_date, email):\n        self.lastname = lastname\n        self.firstname = firstname\n        self.hire_date = hire_date\n        self.email = email\n    def teach(self, course):\n        print(f\"{self.lastname} {self.firstname} donne le cours de {course}\")",
+        "detail": "Exercices.01_Ecole.models.teacher",
+        "documentation": {}
+    },
+    {
+        "label": "Adresse",
+        "kind": 6,
+        "importPath": "Exercices.02_Maison.models.adresse",
+        "description": "Exercices.02_Maison.models.adresse",
+        "peekOfCode": "class Adresse:\n    def __init__(self, rue, numero, ville, cp, boite = None):\n        self.__rue = rue\n        self.__numero = numero\n        self.__ville = ville\n        self.__cp = cp\n        self.__boite = boite\n    @property\n    def rue(self):\n        return self.__rue",
+        "detail": "Exercices.02_Maison.models.adresse",
+        "documentation": {}
+    },
+    {
+        "label": "Maison",
+        "kind": 6,
+        "importPath": "Exercices.02_Maison.models.maison",
+        "description": "Exercices.02_Maison.models.maison",
+        "peekOfCode": "class Maison:\n    def __init__(self, adresse, surface, nb_piece, surface_jardin) -> None:\n        self.__adresse = adresse\n        self.__surface = surface\n        self.__nb_piece = nb_piece\n        self.__surface_jardin = surface_jardin\n    # Getters & Setters\n    # Adresse\n    @property\n    def adresse(self):",
+        "detail": "Exercices.02_Maison.models.maison",
+        "documentation": {}
+    },
+    {
+        "label": "adresse1",
+        "kind": 5,
+        "importPath": "Exercices.02_Maison.program",
+        "description": "Exercices.02_Maison.program",
+        "peekOfCode": "adresse1 = Adresse(\"Rue Bois de Virelles\", 9, \"Virelles\", 6461)\nmaison = Maison(adresse1, 40, 5, 1200)\nprint(maison.resumer())",
+        "detail": "Exercices.02_Maison.program",
+        "documentation": {}
+    },
+    {
+        "label": "maison",
+        "kind": 5,
+        "importPath": "Exercices.02_Maison.program",
+        "description": "Exercices.02_Maison.program",
+        "peekOfCode": "maison = Maison(adresse1, 40, 5, 1200)\nprint(maison.resumer())",
+        "detail": "Exercices.02_Maison.program",
+        "documentation": {}
+    },
+    {
+        "label": "Animal",
+        "kind": 6,
+        "importPath": "Exercices.03_Animalerie.models.animaux.animal",
+        "description": "Exercices.03_Animalerie.models.animaux.animal",
+        "peekOfCode": "class Animal:\n    # Constructeur\n    def __init__(self):\n        pass\n    # Props\n    # Méthodes\n    # Méthodes spéciales",
+        "detail": "Exercices.03_Animalerie.models.animaux.animal",
+        "documentation": {}
+    },
+    {
+        "label": "Chat",
+        "kind": 6,
+        "importPath": "Exercices.03_Animalerie.models.animaux.chat",
+        "description": "Exercices.03_Animalerie.models.animaux.chat",
+        "peekOfCode": "class Chat:\n    # Constructeur\n    def __init__(self):\n        pass\n    # Props\n    # Méthodes\n    # Méthodes spéciales",
+        "detail": "Exercices.03_Animalerie.models.animaux.chat",
+        "documentation": {}
+    },
+    {
+        "label": "Chien",
+        "kind": 6,
+        "importPath": "Exercices.03_Animalerie.models.animaux.chien",
+        "description": "Exercices.03_Animalerie.models.animaux.chien",
+        "peekOfCode": "class Chien:\n    # Constructeur\n    def __init__(self):\n        pass\n    # Props\n    # Méthodes\n    # Méthodes spéciales",
+        "detail": "Exercices.03_Animalerie.models.animaux.chien",
+        "documentation": {}
+    },
+    {
+        "label": "Oiseau",
+        "kind": 6,
+        "importPath": "Exercices.03_Animalerie.models.animaux.oiseau",
+        "description": "Exercices.03_Animalerie.models.animaux.oiseau",
+        "peekOfCode": "class Oiseau:\n    # Constructeur\n    def __init__(self):\n        pass\n    # Props\n    # Méthodes\n    # Méthodes spéciales",
+        "detail": "Exercices.03_Animalerie.models.animaux.oiseau",
+        "documentation": {}
+    },
+    {
+        "label": "Adresse",
+        "kind": 6,
+        "importPath": "Exercices.03_Animalerie.models.adresse",
+        "description": "Exercices.03_Animalerie.models.adresse",
+        "peekOfCode": "class Adresse:\n    # Constructeur\n    def __init__(self):\n        pass\n    # Props\n    # Méthodes\n    # Méthodes spéciales",
+        "detail": "Exercices.03_Animalerie.models.adresse",
+        "documentation": {}
+    },
+    {
+        "label": "Refuge",
+        "kind": 6,
+        "importPath": "Exercices.03_Animalerie.models.refuge",
+        "description": "Exercices.03_Animalerie.models.refuge",
+        "peekOfCode": "class Refuge:\n    # Constructeur\n    def __init__(self):\n        pass\n    # Props\n    # Méthodes\n    # Méthodes spéciales",
+        "detail": "Exercices.03_Animalerie.models.refuge",
+        "documentation": {}
+    },
+    {
+        "label": "refuge",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "refuge = Refuge()\nchat_1 = Chat()\nchat_2 = Chat()\nchat_3 = Chat()\nchien_1 = Chien()\nchien_2 = Chien()\nchien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "chat_1",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "chat_1 = Chat()\nchat_2 = Chat()\nchat_3 = Chat()\nchien_1 = Chien()\nchien_2 = Chien()\nchien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "chat_2",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "chat_2 = Chat()\nchat_3 = Chat()\nchien_1 = Chien()\nchien_2 = Chien()\nchien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "chat_3",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "chat_3 = Chat()\nchien_1 = Chien()\nchien_2 = Chien()\nchien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "chien_1",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "chien_1 = Chien()\nchien_2 = Chien()\nchien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "chien_2",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "chien_2 = Chien()\nchien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "chien_3",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "chien_3 = Chien()\noiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "oiseau_1",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "oiseau_1 = Oiseau()\noiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "oiseau_2",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "oiseau_2 = Oiseau()\noiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    },
+    {
+        "label": "oiseau_3",
+        "kind": 5,
+        "importPath": "Exercices.03_Animalerie.program",
+        "description": "Exercices.03_Animalerie.program",
+        "peekOfCode": "oiseau_3 = Oiseau()\nprint(chat_1)",
+        "detail": "Exercices.03_Animalerie.program",
+        "documentation": {}
+    }
+]
